@@ -18,11 +18,11 @@
 
 Die aktuelle Version gibt es auf der Seite [**Releases**](https://github.com/ouyang1030/DataballPro/releases/latest).
 
-| Plattform                   | Datei                                                                       | Voraussetzungen                                                             |
-| --------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| **macOS** (Apple Silicon)   | `DataballPro_<Version>_aarch64.dmg`                                         | macOS 13 Ventura oder neuer. Nur M1/M2/M3/M4 — Intel-Macs werden nicht unterstützt. |
-| **Windows** (x64)           | `DataballPro_<Version>_x64-setup.exe` (Installer) oder `..._x64_en-US.msi`   | Windows 10 oder 11                                                          |
-| **Linux** (x64)             | `DataballPro_<Version>_amd64.AppImage`                                      | glibc 2.38 oder neuer (Ubuntu 24.04+, Debian 13+, Fedora 39+)               |
+| Plattform                 | Datei                                                                      | Voraussetzungen                                                                     |
+| ------------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| **macOS** (Apple Silicon) | `DataballPro_<Version>_aarch64.dmg`                                        | macOS 13 Ventura oder neuer. Nur M1/M2/M3/M4 — Intel-Macs werden nicht unterstützt. |
+| **Windows** (x64)         | `DataballPro_<Version>_x64-setup.exe` (Installer) oder `..._x64_en-US.msi` | Windows 10 oder 11                                                                  |
+| **Linux** (x64)           | `DataballPro_<Version>_amd64.AppImage`                                     | glibc 2.38 oder neuer (Ubuntu 24.04+, Debian 13+, Fedora 39+)                       |
 
 ### FFmpeg wird benötigt
 
@@ -130,5 +130,3 @@ Bitte ein [Issue](https://github.com/ouyang1030/DataballPro/issues) eröffnen, m
 ## Lizenz
 
 DataballPro steht unter der [PolyForm Noncommercial License 1.0.0](LICENSE): kostenlos nutzbar für Forschung, Lehre, private Projekte und jeden anderen nichtkommerziellen Zweck — Hochschulen und öffentliche Forschungseinrichtungen eingeschlossen. Für kommerzielle Nutzung ist eine gesonderte Lizenz nötig; bitte per Issue Kontakt aufnehmen.
-
-Mitgelieferte Komponenten, einschließlich der ONNX-Modellgewichte, unterliegen eigenen Bedingungen — siehe [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).

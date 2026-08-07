@@ -130,5 +130,3 @@ Please open an [issue](https://github.com/ouyang1030/DataballPro/issues) with yo
 ## License
 
 DataballPro is distributed under the [PolyForm Noncommercial License 1.0.0](LICENSE): free to use for research, teaching, personal projects, and any other noncommercial purpose, including by universities and public research organizations. Commercial use requires a separate licence — please open an issue to get in touch.
-
-Bundled components, including the ONNX model weights, carry their own terms — see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).

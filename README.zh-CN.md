@@ -18,11 +18,11 @@
 
 请从 [**Releases**](https://github.com/ouyang1030/DataballPro/releases/latest) 页面获取最新版本。
 
-| 平台                   | 文件                                                            | 系统要求                                                       |
-| ---------------------- | --------------------------------------------------------------- | -------------------------------------------------------------- |
-| **macOS**（Apple 芯片） | `DataballPro_<版本号>_aarch64.dmg`                              | macOS 13 Ventura 及以上，仅支持 M 系列芯片，不支持 Intel Mac    |
-| **Windows**（x64）     | `DataballPro_<版本号>_x64-setup.exe`（安装程序）或 `..._x64_en-US.msi` | Windows 10 或 11                                               |
-| **Linux**（x64）       | `DataballPro_<版本号>_amd64.AppImage`                           | glibc 2.38 及以上（Ubuntu 24.04+、Debian 13+、Fedora 39+）      |
+| 平台                    | 文件                                                                   | 系统要求                                                     |
+| ----------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------ |
+| **macOS**（Apple 芯片） | `DataballPro_<版本号>_aarch64.dmg`                                     | macOS 13 Ventura 及以上，仅支持 M 系列芯片，不支持 Intel Mac |
+| **Windows**（x64）      | `DataballPro_<版本号>_x64-setup.exe`（安装程序）或 `..._x64_en-US.msi` | Windows 10 或 11                                             |
+| **Linux**（x64）        | `DataballPro_<版本号>_amd64.AppImage`                                  | glibc 2.38 及以上（Ubuntu 24.04+、Debian 13+、Fedora 39+）   |
 
 ### 必须安装 FFmpeg
 
@@ -130,5 +130,3 @@ DataballPro 会检查本仓库的 Releases 并可原地安装更新，因此只�
 ## 许可证
 
 DataballPro 采用 [PolyForm Noncommercial License 1.0.0](LICENSE)：可免费用于科研、教学、个人项目等一切非商业用途，高校与公立研究机构的使用同样在许可范围内。商业用途需要单独授权，请通过 issue 与作者联系。
-
-随应用一同分发的第三方组件（含 ONNX 模型权重）适用各自的许可条款，详见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
