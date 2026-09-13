@@ -8,8 +8,6 @@
 
 [English](README.md) · **简体中文** · [Deutsch](README.de.md)
 
-> 本仓库用于分发已发布的安装包，应用源码在私有仓库中开发。
-
 ![DataballPro 主界面](pics/main_dashboard.png)
 
 ---

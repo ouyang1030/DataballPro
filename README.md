@@ -8,8 +8,6 @@
 
 **English** · [简体中文](README.zh-CN.md) · [Deutsch](README.de.md)
 
-> This repository distributes the released builds. The application source is developed in a private repository.
-
 ![DataballPro main dashboard](pics/main_dashboard.png)
 
 ---

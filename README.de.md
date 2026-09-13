@@ -8,8 +8,6 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md) · **Deutsch**
 
-> Dieses Repository verteilt die veröffentlichten Builds. Der Quellcode der Anwendung wird in einem privaten Repository entwickelt.
-
 ![DataballPro Hauptansicht](pics/main_dashboard.png)
 
 ---
